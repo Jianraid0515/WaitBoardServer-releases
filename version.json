@@ -1,0 +1,11 @@
+{
+  "latest_version": "2607.1.0",
+  "release_date": "2026-07-25",
+  "windows": {
+    "url": "",
+    "sha256": ""
+  },
+  "changelog": [
+    "首次發布 WaitBoardServer 測試版"
+  ]
+}
