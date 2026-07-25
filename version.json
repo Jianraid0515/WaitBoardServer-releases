@@ -2,7 +2,7 @@
   "latest_version": "2607.1.0",
   "release_date": "2026-07-25",
   "windows": {
-    "url": "https://github.com/Jianraid0515/ATVWB/releases/download/stable/WaitBoardServer_V2607.1.0_Installer.exe",
+    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/Stable/WaitBoardServer_V2607.1.0_Installer.exe",
     "sha256": "871e8ffd997b6dc7b3f681ca251af2fb56bfb6215ae80b08e10dd66c5412918f"
   },
   "changelog": [
