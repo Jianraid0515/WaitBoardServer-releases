@@ -1,9 +1,9 @@
 {
   "latest_version": "2607.2.01",
-  "release_date": "2026-07-25",
+  "release_date": "2026-07-26",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/Stable/WaitBoardServer_V2607.1.0_Installer.exe",
-    "sha256": "871e8ffd997b6dc7b3f681ca251af2fb56bfb6215ae80b08e10dd66c5412918f"
+    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/Stable/WaitBoardServer_V2607.2.01_Installer.exe",
+    "sha256": "108eb0869a1bd17118981c842a470f1c92de95f135d89b4f208e0d5ded72c7a9"
   },
   "changelog": [
     "首次發布 WaitBoardServer 穩定版"
