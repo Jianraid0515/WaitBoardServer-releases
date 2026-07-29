@@ -2,8 +2,8 @@
   "latest_version": "2607.4.02",
   "release_date": "2026-07-29",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/Server_2607.4.02/WaitBoardServer_V2607.4.02_Installer.exe",
-    "sha256": "baa5f982411c1d39d9c756a74b8c5875d915c261ab1e2ef0cde2c5913dcad68b"
+    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/Server_2607.4.03/WaitBoardServer_V2607.4.03_Installer.exe",
+    "sha256": "e1cf9df2f60818dbcaa4b1b6167cd77f525074e821d446f11a3c7d68e74ae98d"
   },
   "changelog": [
     "更新服務修正"
