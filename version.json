@@ -1,9 +1,9 @@
 {
-  "latest_version": "2607.4.03",
+  "latest_version": "2607.4.09",
   "release_date": "2026-07-29",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/Server_2607.4.03/WaitBoardServer_V2607.4.03_Installer.exe",
-    "sha256": "60be148fe32da5550770e06b30ab75f551f586223bfdc79fbbc4098e2f3043f1"
+    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/Server_2607.4.09/WaitBoardServer_V2607.4.09_Installer.exe",
+    "sha256": "ca10b1c0509583ebf339a00ac25b6c6ec5318a628553a8b091999df139178126"
   },
   "changelog": [
     "1.叫號燈驗證服務修正",
