@@ -1,11 +1,11 @@
 {
-  "latest_version": "2608.9.38",
-  "release_date": "2026-08-21",
+  "latest_version": "2609.02.03",
+  "release_date": "2026-09-09",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/V2608.9.38/WaitBoardServer_V2608.9.38_Installer.exe",
+    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/V2609.02.03/WaitBoardServer_V2609.02.03_Installer.exe",
     "sha256": ""
   },
   "changelog": [
-    "1.串流媒體解析優化。"
+    "優化候診資料監聽模式。"
   ]
 }
