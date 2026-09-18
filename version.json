@@ -1,8 +1,8 @@
 {
-  "latest_version": "2609.05.07",
+  "latest_version": "2609.05.08",
   "release_date": "2026-09-18",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/V2609.05.07/WaitBoardServer_V2609.05.07_Installer.exe",
+    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/V2608.05.08/WaitBoardServer_V2609.05.08_Installer.exe",
     "sha256": ""
   },
   "changelog": [
