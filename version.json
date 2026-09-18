@@ -1,11 +1,14 @@
 {
-  "latest_version": "2609.04.01",
-  "release_date": "2026-09-15",
+  "latest_version": "2609.05.07",
+  "release_date": "2026-09-18",
   "windows": {
-    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/V2609.04.01/WaitBoardServer_V2609.04.01_Installer.exe",
+    "url": "https://github.com/Jianraid0515/WaitBoardServer-releases/releases/download/V2609.05.07/WaitBoardServer_V2609.05.07_Installer.exe",
     "sha256": ""
   },
   "changelog": [
+    "候診表更新頻率修正",
+    "運行狀態診斷儀表",
+    "多媒體雙軌解析修正",
     "解新叫號RECALL機制回饋至前端響應。"
   ]
 }
